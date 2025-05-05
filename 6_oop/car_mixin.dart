@@ -1,0 +1,5 @@
+
+mixin CarMixin {
+
+    String? color;
+}
